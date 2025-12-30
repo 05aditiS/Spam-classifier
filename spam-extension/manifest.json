@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Spam Detector",
+  "version": "1.0",
+  "description": "Detects spam using NLP",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
